@@ -1,6 +1,6 @@
 # Hi, I'm Artem Levin
 
-**Junior Python Backend Developer**  
+**Middle Python Backend Developer**  
 Graduate of Yandex Practicum (Middle Python Developer program)  
 Focused on building reliable backend services with **Python, FastAPI, Django, SQLAlchemy**.
 
@@ -45,8 +45,8 @@ I’m seeking a **Python Backend Developer** role where I can contribute to prod
 ---
 
 ## 📫 Contacts
-- Email: [your email]  
-- LinkedIn: [LinkedIn link]  
+- Email: i9262176154@gmail.com
+- LinkedIn: 
 - GitHub: [github.com/ArtemLevin](https://github.com/ArtemLevin)
 
 ---
