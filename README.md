@@ -12,38 +12,38 @@ Focused on building scalable, reliable **microservice-based backends** with **Py
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 
 **Frameworks:**  
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white)  
-![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white)  
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white) 
+![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white) 
 ![aiohttp](https://img.shields.io/badge/-aiohttp-2C5BB4?logo=python&logoColor=white)
 
 **Databases / ORM:**  
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white)  
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)  
-![Redis](https://img.shields.io/badge/-Redis-DC382D?logo=redis&logoColor=white)  
-![ClickHouse](https://img.shields.io/badge/-ClickHouse-FFCC01?logo=clickhouse&logoColor=black)  
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?logo=redis&logoColor=white)
+![ClickHouse](https://img.shields.io/badge/-ClickHouse-FFCC01?logo=clickhouse&logoColor=black)
 ![SQLAlchemy](https://img.shields.io/badge/-SQLAlchemy-D71F00?logo=python&logoColor=white)
 
 **Messaging & Streaming:**  
-![Kafka](https://img.shields.io/badge/-Kafka-231F20?logo=apachekafka&logoColor=white)  
+![Kafka](https://img.shields.io/badge/-Kafka-231F20?logo=apachekafka&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-FF6600?logo=rabbitmq&logoColor=white)
 
 **Tools & DevOps:**  
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)  
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white)  
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)  
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?logo=jenkins&logoColor=white)
 
 **Monitoring & Logging:**  
-![Prometheus](https://img.shields.io/badge/-Prometheus-E6522C?logo=prometheus&logoColor=white)  
-![Grafana](https://img.shields.io/badge/-Grafana-F46800?logo=grafana&logoColor=white)  
-![ELK](https://img.shields.io/badge/-ELK-005571?logo=elasticstack&logoColor=white)  
+![Prometheus](https://img.shields.io/badge/-Prometheus-E6522C?logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/-Grafana-F46800?logo=grafana&logoColor=white)
+![ELK](https://img.shields.io/badge/-ELK-005571?logo=elasticstack&logoColor=white)
 ![Sentry](https://img.shields.io/badge/-Sentry-362D59?logo=sentry&logoColor=white)
 
 **Auth & Security:**  
-OAuth2, JWT, RBAC
+OAuth2 · JWT · RBAC
 
 **Testing:**  
-pytest, pytest-asyncio, httpx, load testing (Locust, k6)
+pytest · pytest-asyncio · httpx · Locust · k6
 
 ---
 
@@ -99,7 +99,7 @@ I’m seeking a **Python Backend Developer** role where I can contribute to **re
 ---
 
 ## 📫 Contacts  
-- Email: xeltorox@yandex.ru  
+- Email: **xeltorox@yandex.ru**  
 - GitHub: [github.com/ArtemLevin](https://github.com/ArtemLevin)
 
 ---
