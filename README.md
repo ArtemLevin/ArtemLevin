@@ -1,8 +1,7 @@
 # Hi, I'm Artem Levin 👋
 
-**Python Backend Developer**  
-Graduate of Yandex Practicum (Middle Python Developer program)  
-Focused on building scalable, reliable **microservice-based backends** with **Python, FastAPI, asyncio, Kafka, PostgreSQL, ClickHouse**.
+**Senior Python Backend Developer**  
+ Focused on building scalable, reliable **microservice-based backends** with **Python, FastAPI, asyncio, Kafka, PostgreSQL, ClickHouse**.
 
 ---
 
